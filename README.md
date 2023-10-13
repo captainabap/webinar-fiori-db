@@ -1,2 +1,1 @@
-# webinar-fiori-db
-Materialien zum Webinar "Übersicht über die UX-Strategie für SAP S/4HANA – Fiori Grundlagen"
+# Materialien zum Webinar "Übersicht über die UX-Strategie für SAP S/4HANA – Fiori Grundlagen"
